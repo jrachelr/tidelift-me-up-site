@@ -25,9 +25,6 @@
 	display: flex;
 	flex-direction: row;
 }
-.sortWidget:hover {
-	color: white;
-}
 
 .caret {
 	font-style: normal;
